@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    background-color: #1b1b32;
+    color: white;
+  }
+  
+  .heading {
+    text-align: center;
+  }
+  
+  .flexbox {
+    display: flex;
+    flex-flow: column;
+    margin: 0 20%;
+    align-items: center;
+    border: 2px solid white;
+    background-color: #3b3b4f;
+     
+  }
+  
+  .instruction {
+    background-color: #3b3b4f;
+    font-size: 20px;
+  }
+  
+  button {
+    width: 80%;
+    background-color: #ffac33;
+    height: 30px;
+  }
+  
+  input {
+    width: 80%;
+    height: 40px;
+    font-size: 20px;
+  }
+  
+  #output {
+    font-size: 20px;
+    background-color: #3b3b4f;
+  }
